@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dhl/Test/RTPS/src/H264_NALUDecoder.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/dhl/Test/RTPS/src/JRTP_Sender.cpp
+jrtplib3/rtpsession.h
+/home/dhl/Test/RTPS/src/jrtplib3/rtpsession.h
+jrtplib3/rtpsessionparams.h
+/home/dhl/Test/RTPS/src/jrtplib3/rtpsessionparams.h
+jrtplib3/rtpudpv4transmitter.h
+/home/dhl/Test/RTPS/src/jrtplib3/rtpudpv4transmitter.h
+jrtplib3/rtpipv4address.h
+/home/dhl/Test/RTPS/src/jrtplib3/rtpipv4address.h
+jrtplib3/rtptimeutilities.h
+/home/dhl/Test/RTPS/src/jrtplib3/rtptimeutilities.h
+jrtplib3/rtppacket.h
+/home/dhl/Test/RTPS/src/jrtplib3/rtppacket.h
+stdlib.h
+-
+iostream
+-
+H264_NALUDecoder.h
+/home/dhl/Test/RTPS/src/H264_NALUDecoder.h
+

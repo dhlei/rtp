@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/jrtp_sender.dir/JRTP_Sender.cpp.o  -o jrtp_sender -L/usr/local/lib -ljrtp libH264_NALUDecoder.a 

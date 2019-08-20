@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dhl/Test/RTPS/src/H264_NALUDecoder.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+memory.h
+-
+H264_NALUDecoder.h
+/home/dhl/Test/RTPS/src/H264_NALUDecoder.h
+
+/home/dhl/Test/RTPS/src/H264_NALUDecoder.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

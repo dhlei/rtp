@@ -1,0 +1,2 @@
+/usr/bin/ar qc libH264_NALUDecoder.a  CMakeFiles/H264_NALUDecoder.dir/H264_NALUDecoder.cpp.o
+/usr/bin/ranlib libH264_NALUDecoder.a
